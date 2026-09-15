@@ -1,0 +1,6 @@
+title: Ипотечник / Mortgage Tracker
+description: Политика конфиденциальности и условия использования · Privacy Policy and Terms of Use
+baseurl: /mortgageCalculator
+lang: ru
+exclude:
+  - README.md
