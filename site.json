@@ -1,0 +1,162 @@
+{
+  "title": "Ипотечник / Mortgage Tracker",
+  "base_path": "/mortgageCalculator",
+  "origin": "https://napp-dev.github.io",
+  "contact_email": "napp.dev.support@gmail.com",
+  "updated": "2026-10-04",
+  "aliases": {
+    "en": "en-US"
+  },
+  "locales": [
+    {
+      "code": "ru",
+      "language": "ru",
+      "label": "Русский",
+      "app_name": "Ипотечник",
+      "privacy_title": "Политика конфиденциальности",
+      "terms_title": "Условия использования",
+      "support_title": "Поддержка",
+      "home": "Все языки"
+    },
+    {
+      "code": "en-US",
+      "language": "en-US",
+      "label": "English (United States)",
+      "app_name": "Mortgage Tracker",
+      "privacy_title": "Privacy Policy",
+      "terms_title": "Terms of Use",
+      "support_title": "Support",
+      "home": "All languages"
+    },
+    {
+      "code": "en-GB",
+      "language": "en-GB",
+      "label": "English (United Kingdom)",
+      "app_name": "Mortgage Tracker",
+      "privacy_title": "Privacy Policy",
+      "terms_title": "Terms of Use",
+      "support_title": "Support",
+      "home": "All languages"
+    },
+    {
+      "code": "en-AU",
+      "language": "en-AU",
+      "label": "English (Australia)",
+      "app_name": "Mortgage Tracker",
+      "privacy_title": "Privacy Policy",
+      "terms_title": "Terms of Use",
+      "support_title": "Support",
+      "home": "All languages"
+    },
+    {
+      "code": "en-CA",
+      "language": "en-CA",
+      "label": "English (Canada)",
+      "app_name": "Mortgage Tracker",
+      "privacy_title": "Privacy Policy",
+      "terms_title": "Terms of Use",
+      "support_title": "Support",
+      "home": "All languages"
+    },
+    {
+      "code": "de-DE",
+      "language": "de-DE",
+      "label": "Deutsch",
+      "app_name": "Mortgage Tracker",
+      "privacy_title": "Datenschutzerklärung",
+      "terms_title": "Nutzungsbedingungen",
+      "support_title": "Support",
+      "home": "Alle Sprachen"
+    },
+    {
+      "code": "fr-FR",
+      "language": "fr-FR",
+      "label": "Français (France)",
+      "app_name": "Mortgage Tracker",
+      "privacy_title": "Politique de confidentialité",
+      "terms_title": "Conditions d’utilisation",
+      "support_title": "Assistance",
+      "home": "Toutes les langues"
+    },
+    {
+      "code": "fr-CA",
+      "language": "fr-CA",
+      "label": "Français (Canada)",
+      "app_name": "Mortgage Tracker",
+      "privacy_title": "Politique de confidentialité",
+      "terms_title": "Conditions d’utilisation",
+      "support_title": "Assistance",
+      "home": "Toutes les langues"
+    },
+    {
+      "code": "es-ES",
+      "language": "es-ES",
+      "label": "Español (España)",
+      "app_name": "Mortgage Tracker",
+      "privacy_title": "Política de privacidad",
+      "terms_title": "Condiciones de uso",
+      "support_title": "Soporte",
+      "home": "Todos los idiomas"
+    },
+    {
+      "code": "es-MX",
+      "language": "es-MX",
+      "label": "Español (México)",
+      "app_name": "Mortgage Tracker",
+      "privacy_title": "Política de privacidad",
+      "terms_title": "Términos de uso",
+      "support_title": "Soporte",
+      "home": "Todos los idiomas"
+    },
+    {
+      "code": "pt-BR",
+      "language": "pt-BR",
+      "label": "Português (Brasil)",
+      "app_name": "Mortgage Tracker",
+      "privacy_title": "Política de Privacidade",
+      "terms_title": "Termos de Uso",
+      "support_title": "Suporte",
+      "home": "Todos os idiomas"
+    },
+    {
+      "code": "pt-PT",
+      "language": "pt-PT",
+      "label": "Português (Portugal)",
+      "app_name": "Mortgage Tracker",
+      "privacy_title": "Política de Privacidade",
+      "terms_title": "Termos de Utilização",
+      "support_title": "Apoio",
+      "home": "Todos os idiomas"
+    },
+    {
+      "code": "it",
+      "language": "it",
+      "label": "Italiano",
+      "app_name": "Mortgage Tracker",
+      "privacy_title": "Informativa sulla privacy",
+      "terms_title": "Condizioni d’uso",
+      "support_title": "Assistenza",
+      "home": "Tutte le lingue"
+    },
+    {
+      "code": "ja",
+      "language": "ja",
+      "label": "日本語",
+      "app_name": "Mortgage Tracker",
+      "privacy_title": "プライバシーポリシー",
+      "terms_title": "利用規約",
+      "support_title": "サポート",
+      "home": "言語一覧"
+    },
+    {
+      "code": "ko",
+      "language": "ko",
+      "label": "한국어",
+      "app_name": "Mortgage Tracker",
+      "privacy_title": "개인정보 처리방침",
+      "terms_title": "이용 약관",
+      "support_title": "지원",
+      "home": "모든 언어"
+    }
+  ]
+}
